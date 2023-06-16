@@ -1,1 +1,3 @@
 # Heart-Disease-Predictor
+
+This project was done using Python with the Jupyter platform.  A couple libraries were used, such as the data analyst library Pandas and the sckikit-learn machine learning tools.  The purpose of this project was to utilize machine learning techniques and algorithms to build a model that, given a dataset obtained from Kaggle, would then calculate the risk of developing heart disease.  Different algorithms, such as K-nearest neighbors, and decision trees were used to compare and contrast results.  The data is presented in graphs and charts that are easy to read and understand.
